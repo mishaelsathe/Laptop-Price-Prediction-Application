@@ -1,3 +1,5 @@
+---
+
 # **Laptop Price Prediction Application 💻**
 
 ## **Overview**
@@ -29,7 +31,7 @@ This project is a web-based application that predicts the price of a laptop base
 ## **Getting Started**
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/Laptop-Price-Prediction-Application.git
+   git clone https://github.com/mishaelsathe/Laptop-Price-Prediction-Application.git
    cd Laptop-Price-Prediction-Application
    ```
 
