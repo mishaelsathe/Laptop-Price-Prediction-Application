@@ -1,11 +1,11 @@
-Laptop Price Prediction Application 💻
+# **Laptop Price Prediction Application 💻**
 
-Overview
+## **Overview**
 This project is a web-based application that predicts the price of a laptop based on user-defined specifications such as brand, CPU, RAM, storage, and screen size. The application is built using **Streamlit** and powered by a pre-trained **machine learning model**.
 
 ---
 
-**Technologies Used
+## **Technologies Used**
 - **Python**: Core programming language  
 - **scikit-learn**: For training the machine learning model  
 - **Streamlit**: For the interactive web interface  
@@ -14,7 +14,7 @@ This project is a web-based application that predicts the price of a laptop base
 
 ---
 
-**Project Structure**
+## **Project Structure**
 ```
 📂 Laptop-Price-Prediction-App/
 ├── app.py              # Streamlit application code
@@ -26,7 +26,7 @@ This project is a web-based application that predicts the price of a laptop base
 
 ---
 
-**Getting Started**
+## **Getting Started**
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/Laptop-Price-Prediction-Application.git
@@ -68,3 +68,5 @@ This project is a web-based application that predicts the price of a laptop base
 
 ## **License**
 This project is licensed under the **MIT License**.
+
+---
